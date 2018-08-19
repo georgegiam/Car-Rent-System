@@ -1,4 +1,4 @@
-# Car-Rent-System
+# Car Rent System
 
 This is a Car Renting System project, created for the needs of "Databases" course (4th semester),
 at the Department of Digital Systems of Piraeus University.
