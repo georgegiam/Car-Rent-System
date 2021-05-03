@@ -8,6 +8,7 @@ Customers are able to rent cars and the application manager can handle their req
 The DDL (Data Definition Language) files are respresent the models the have been used to make the system's databases.
 
 For the database implementation the following software was used:
-  	• MySQL
+
+- MySQL
 
 
